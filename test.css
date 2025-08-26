@@ -3,3 +3,8 @@ body{
     background: red;
     text-align: center;
 }
+div{
+    font-size: 2em;
+    color: purple;
+    text-transform: uppercase;
+}
